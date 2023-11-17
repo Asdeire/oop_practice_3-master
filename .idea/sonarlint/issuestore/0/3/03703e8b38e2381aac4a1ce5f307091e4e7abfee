@@ -1,3 +1,9 @@
 
+†
+java:S4165"iRemove this useless assignment; "powerSupply" already holds the assigned value along all execution paths.(ÙòÐž8Öô­Ï½1
+†
+java:S4165"iRemove this useless assignment; "motherboard" already holds the assigned value along all execution paths.(ð§Û¸8×ô­Ï½1
 L
-java:S1068"/Remove this unused "motherboard" private field.(À¿­ü8ç´¢Ê»1
+java:S1656"/Remove or correct this useless self-assignment.(ð§Û¸8Üô­Ï½1
+L
+java:S1656"/Remove or correct this useless self-assignment.(ÙòÐž8Üô­Ï½1

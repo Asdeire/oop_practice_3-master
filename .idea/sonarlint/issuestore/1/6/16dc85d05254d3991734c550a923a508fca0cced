@@ -1,7 +1,19 @@
 
-J
-java:S1068"-Remove this unused "processor" private field.(Ë¥ÒÈ8Ğ¸°É»1
+†
+java:S4165"dRemove this useless assignment; "memory" already holds the assigned value along all execution paths.(»úà–ıÿÿÿÿ8Àã«Ï½1
+
+java:S4165"bRemove this useless assignment; "rams" already holds the assigned value along all execution paths.(‹ÛÍı8Áã«Ï½1
+„
+java:S4165"gRemove this useless assignment; "processor" already holds the assigned value along all execution paths.(íÂ©8Áã«Ï½1
+†
+java:S4165"iRemove this useless assignment; "graphicCard" already holds the assigned value along all execution paths.(Ò«Ú÷8Àã«Ï½1
+„
+java:S6201C"bReplace this instanceof check and cast with 'instanceof ConnectToMotherboard connecttomotherboard'(¶ÚÊŸıÿÿÿÿ8Êã«Ï½1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(»úà–ıÿÿÿÿ8Ëã«Ï½1
 L
-java:S1068"/Remove this unused "graphicCard" private field.(Üã†¿8Ğ¸°É»1
-G
-java:S1068"*Remove this unused "memory" private field.(ìùï÷8Ğ¸°É»1
+java:S1656"/Remove or correct this useless self-assignment.(íÂ©8Ëã«Ï½1
+L
+java:S1656"/Remove or correct this useless self-assignment.(Ò«Ú÷8Ëã«Ï½1
+L
+java:S1656"/Remove or correct this useless self-assignment.(‹ÛÍı8Ìã«Ï½1

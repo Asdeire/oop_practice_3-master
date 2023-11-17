@@ -1,8 +1,8 @@
-package com.asdeire.oop.practice3.enums;
+package com.asdeire.oop.practice3.components.enums;
 
 public enum FormFactor {
     Mini_ITX,
-    Micro_ATX,
+    MICRO_ATX,
     ATX,
     E_ATX,
 }
